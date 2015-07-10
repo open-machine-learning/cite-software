@@ -1,51 +1,46 @@
 [{
-	"proceedings\icml2007\papers/7.pdf":[],
-	"proceedings\icml2007\papers/16.pdf":[],
-	"proceedings\icml2007\papers/21.pdf":["http://www.csie.ntu.edu.tw/~cjlin/libsvm"],
-	"proceedings\icml2007\papers/29.pdf":["http://www.csie.ntu.edu.tw/~cjlin/libsvm"],
-	"proceedings\icml2007\papers/35.pdf":[],
-	"proceedings\icml2007\papers/37.pdf":["http://www.cs.washington.edu/ai/alchemy/"],
-	"proceedings\icml2007\papers/60/pdf":["http://www.csie.ntu.edu.tw/~cjlin/libsvm"],
-	"proceedings\icml2007\papers/62.pdf":[],
-	"proceedings\icml2007\papers/72.pdf":[],
-	"proceedings\icml2007\papers/75/pdf":["http://www.csie.ntu.edu.tw/~cjlin/libsvm"],
-	"icml2015/fercoq15.pdf":["scikit-learn"],
+    "icml2007/papers/7.pdf":[],
+    "icml2007/papers/16.pdf":[],
+    "icml2007/papers/21.pdf":["http://www.csie.ntu.edu.tw/~cjlin/libsvm"],
+    "icml2007/papers/29.pdf":["http://www.csie.ntu.edu.tw/~cjlin/libsvm"],
+    "icml2007/papers/35.pdf":[],
+    "icml2007/papers/37.pdf":["http://www.cs.washington.edu/ai/alchemy/"],
+    "icml2007/papers/60/pdf":["http://www.csie.ntu.edu.tw/~cjlin/libsvm"],
+    "icml2007/papers/62.pdf":[],
+    "icml2007/papers/72.pdf":[],
+    "icml2007/papers/75/pdf":["http://www.csie.ntu.edu.tw/~cjlin/libsvm"],
+    "icml2015/fercoq15.pdf":["scikit-learn"],
+    "icml2013/bergstra13.pdf":["https://github.com/jaberg/hyperoptconvnet"],
+    "icml2013/denil13.pdf":["https://github.com/david-matheson/"],
+    "icml2013/pascanu13.pdf":["https://github.com/pascanur/trainingRNNs"],
+    "icml2013/reed13.pdf":["https://github.com/cjrd/MEIBP"],
+    "icml2013/tang13.pdf":["https://github.com/jackculpepper/dir-linear"],
+    "icml2013/xu13a.pdf":["https://github.com/chokkyvista/iPM3F"],
+    "icml2015/amid15.pdf":["https://github.com/eamid/mvte"],
+    "icml2015/beygelzimer15.pdf":["https://github.com/JohnLangford/vowpal_wabbit/"],
+    "icml2015/blum15.pdf":["https://github.com/mrtzh/Ladder.jl"],
+    "icml2015/chao15.pdf":["https://github.com/pujols/Exponential-HMC"],
+    "icml2015/cohenb15.pdf":["https://github.com/shoefer/"],
+    "icml2015/germain15.pdf":["https://github.com/mgermain/MADE/releases/tag/ICML2015"],
+    "icml2015/giguere15.pdf":["https://github.com/a-ro/"],
+    "icml2015/gouws15.pdf":["https://github.com/gouwsmeister/bilbowa"],
+    "icml2015/hernandez-lobatob15.pdf":["https://github.com/nitishsrivastava/deepnet", "https://github.com/HIPS/"],
+    "icml2015/hocking15.pdf":["https://github.com/tdhock/PeakSegDP", "https://github.com/tdhock/PeakSeg-paper"],
+    "icml2015/huangb15.pdf":["https://github.com/yingusxiaous/"],
+    "icml2015/johnson15.pdf":["https://github.com/tqchen/rabit"],
+    "icml2015/kandemir15.pdf":["https://github.com/melihkandemir/atldgp"],
+    "icml2015/komiyama15.pdf":["https://github.com/jkomiyama/multiplaybanditlib"],
+    "icml2015/le15.pdf":["https://github.com/probml/pmtk3"],
+    "icml2015/liub15.pdf":["https://github.com/premgopalan/svinet"],
+    "icml2015/lloyd15.pdf":["https://github.com/SheffieldML/"],
+    "icml2015/lopez-paz15.pdf":["https://github.com/lopezpaz/causation_learning_theory"],
+    "icml2015/manoel15.pdf":["https://github.com/eric-tramel/"],
+    "icml2015/naesseth15.pdf":["https://github.com/can-cs/"],
+    "icml2015/papachristoudis15.pdf":["https://github.com/geopapa11/adabp"],
+    "icml2015/snoek15.pdf":["https://github.com/orippel/"],
+    "icml2015/sohl-dickstein15.pdf":["https://github.com/Sohl-Dickstein/"],
+    "icml2015/tansey15.pdf":["https://github.com/tansey/vsmrfs"],
+    "icml2015/vanseijen15.pdf":["https://github.com/vanseijen/singlestep-vs-multistep"],
+    "icml2015/xuc15.pdf":["https://github.com/kelvinxu/"],
+    "icml2015/zuk15.pdf":["https://github.com/avishaiwa/SVLS"],
 }]
-
-
-bergstra13.txt:https://github.com/jaberg/hyperoptconvnet,
-denil13.txt:https://github.com/david-matheson/
-pascanu13.txt:https://github.com/pascanur/trainingRNNs
-reed13.txt:https://github.com/cjrd/MEIBP
-tang13.txt:https://github.com/jackculpepper/dir-linear
-xu13a.txt:https://github.com/chokkyvista/iPM3F
-
-amid15.txt:https://github.com/eamid/mvte
-beygelzimer15.txt:https://github.com/JohnLangford/
-blum15.txt:https://github.com/mrtzh/Ladder
-chao15.txt:https://github.com/pujols/Exponential-HMC
-cohenb15.txt:https://github.com/shoefer/
-germain15.txt:https://github.com/mgermain/MADE/releases/tag/ICML2015
-giguere15.txt:https://github.com/a-ro/
-gouws15.txt:https://github.com/gouwsmeister/bilbowa
-hernandez-lobatob15.txt:https://github.com/nitishsrivastava/deepnet
-hernandez-lobatob15.txt:https://github.com/HIPS/
-hocking15.txt:https://github.com/tdhock/PeakSegDP
-hocking15.txt:https://github.com/tdhock/PeakSeg-paper
-huangb15.txt:https://github.com/yingusxiaous/
-johnson15.txt:https://github.com/tqchen/rabit
-kandemir15.txt:https://github.com/melihkandemir/atldgp
-komiyama15.txt:https://github.com/jkomiyama/multiplaybanditlib
-le15.txt:https://github.com/probml/pmtk3
-liub15.txt:https://github.com/premgopalan/svinet
-lloyd15.txt:https://github.com/SheffieldML/
-lopez-paz15.txt:https://github.com/lopezpaz/causation_learning_theory
-manoel15.txt:https://github.com/eric-tramel/
-naesseth15.txt:https://github.com/can-cs/
-papachristoudis15.txt:https://github.com/geopapa11/adabp
-snoek15.txt:https://github.com/orippel/
-sohl-dickstein15.txt:https://github.com/Sohl-Dickstein/
-tansey15.txt:https://github.com/tansey/vsmrfs
-vanseijen15.txt:https://github.com/vanseijen/singlestep-vs-multistep
-xuc15.txt:https://github.com/kelvinxu/
-zuk15.txt:https://github.com/avishaiwa/SVLS
