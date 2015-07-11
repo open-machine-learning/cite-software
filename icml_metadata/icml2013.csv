@@ -1,0 +1,283 @@
+Abernethy, Jacob and Amin, Kareem and Kearns, Michael and Draief, Moez	Large-Scale Bandit Problems and {KWIK} Learning
+Afkanpour, Arash and György, András and Szepesvari, Csaba and Bowling, Michael	A Randomized Mirror Descent Algorithm for Large Scale Multiple Kernel Learning
+Agarwal, Alekh	Selective sampling algorithms for cost-sensitive multiclass prediction
+Agrawal, Shipra and Goyal, Navin	Thompson Sampling for Contextual Bandits with Linear Payoffs
+Ahmed, Amr and Hong, Liangjie and Smola, Alexander	Nested Chinese Restaurant Franchise Process:  Applications to User Tracking and Document Modeling
+Ailon, Nir and Chen, Yudong and Xu, Huan	Breaking the Small Cluster Barrier of Graph Clustering
+Alain, Droniou and Olivier, Sigaud	Gated Autoencoders with Tied Input Weights
+Allen Zhu, Zeyuan and Lattanzi, Silvio and Mirrokni, Vahab	A Local Algorithm for Finding Well-Connected Clusters
+Almingol, Javier and Montesano, Lui and Lopes, Manuel	Learning Multiple Behaviors from Unlabeled Demonstrations in a Latent Controller Space
+Anandkumar, Animashree and Hsu, Daniel and Javanmard, Adel and Kakade, Sham	Learning Linear Bayesian Networks with Latent Variables
+Andrew, Galen and Arora, Raman and Bilmes, Jeff and Livescu, Karen	Deep Canonical Correlation Analysis
+Appel, Ron and Fuchs, Thomas and Dollar, Piotr and Perona, Pietro	Quickly Boosting Decision Trees -- Pruning Underachieving Features Early
+Arora, Sanjeev and Ge, Rong and Halpern, Yonatan and Mimno, David and Moitra, Ankur and Sontag, David and Wu, Yichen and Zhu, Michael	A Practical Algorithm for Topic Modeling with Provable Guarantees
+Ávila Pires, Bernardo and Szepesvari, Csaba and Ghavamzadeh, Mohammad	Cost-sensitive Multiclass Classification Risk Bounds
+Avron, Haim and Boutsidis, Christos and Toledo, Sivan and Zouzias, Anastasios	Efficient Dimensionality Reduction for  Canonical Correlation Analysis
+Baktashmotlagh, Mahsa and Harandi, Mehrtash and Bigdeli, Abbas and Lovell, Brian and Salzmann, Mathieu	Non-Linear Stationary Subspace Analysis with Application to Video Classification
+Balasubramanian, Krishnakumar and Yu, Kai and Lebanon, Guy	Smooth Sparse Coding via Marginal Regression for Learning Sparse Representations
+Balcan, Nina and Berlind, Christopher and Ehrlich, Steven and Liang, Yingyu	Efficient Semi-supervised and Active Learning of Disjunctions
+Balcan, Nina and Blum, Avrim and Mansour, Yishay	Exploiting Ontology Structures and Unlabeled Data for Learning
+Bardenet, Rémi and Brendel, Mátyás and Kégl, Balázs and Sebag, Michèle	Collaborative hyperparameter tuning
+Bellemare, Marc and Veness, Joel and Bowling, Michael	Bayesian Learning of Recursively Factored Environments
+Bengio, Yoshua and Mesnil, Gregoire and Dauphin, Yann and Rifai, Salah	Better Mixing via Deep Representations
+Bergstra, James and Yamins, Daniel and Cox, David	Making a Science of Model Search: Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures
+Bi, Wei and Kwok, James	Efficient Multi-label Classification with Many Labels
+Boots, Byron and Gordon, Geoff	A Spectral Learning Approach to Range-Only {SLAM}
+Brechtel, Sebastian and Gindele, Tobias and Dillmann, Rdiger	Solving Continuous POMDPs: Value Iteration with Incremental Learning of an Efficient Space Representation
+Broderick, Tamara and Kulis, Brian and Jordan, Michael	MAD-Bayes: MAP-based Asymptotic Derivations from Bayes
+Bryan, Nicholas and Mysore, Gautham	An Efficient Posterior Regularized Latent Variable Model for Interactive Sound Source Separation
+Bubeck, Séebastian and Wang, Tengyao and Viswanathan, Nitin	Multiple Identifications in Multi-Armed Bandits
+Bugra Erol, Yusuf and Li, Lei and Ramsundar, Bharath and Stuart, Russell	The Extended Parameter Filter
+B<span>ü</span>hler, Thomas and Rangapuram, Shyam Sundar and Setzer, Simon and Hein, Matthias	Constrained fractional set programs and their  application in local clustering and community detection
+Busa-Fekete, Robert and Szorenyi, Balazs and Cheng, Weiwei and Weng, Paul and Huellermeier, Eyke	Top-k Selection based on Adaptive Sampling of Noisy Preferences
+Cai, Ruichu and Zhang, Zhenjie and Hao, Zhifeng	SADA: A General Framework to Support Robust Causation Discovery
+Carpentier, Alexandra and Munos, Rémi	Toward Optimal Stratification for Stratified Monte-Carlo Integration
+Chang, Billy and Kruger, Uwe and Kustra, Rafal and Zhang, Junping	Canonical Correlation Analysis based on Hilbert-Schmidt Independence Criterion and Centered Kernel Target Alignment
+Chattopadhyay, Rita and Fan, Wei and Davidson, Ian and Panchanathan, Sethuraman and Ye, Jieping	Joint Transfer and Batch-mode Active Learning
+Chatzis, Sotirios	Infinite Markov-Switching Maximum Entropy Discrimination Machines
+Chen, Wei and Wang, Yajun and Yuan, Yang	Combinatorial Multi-Armed Bandit: General Framework and Applications
+Chen, Yuxin and Krause, Andreas	Near-optimal Batch Mode Active Learning and Adaptive Submodular Optimization
+Chen, Wenlin and Weinberger, Kilian and Chen, Yixin	Maximum Variance Correction with Application to A* Search
+Chen, Yudong and Caramanis, Constantine	Noisy and Missing Data Regression: Distribution-Oblivious Support Recovery
+Chen, Tianqi and Li, Hang and Yang, Qiang and Yu, Yong	General Functional Matrix Factorization Using Gradient Boosting
+Chen, Xi and Lin, Qihang and Zhou, Dengyong	Optimistic Knowledge Gradient Policy for Optimal Budget Allocation in Crowdsourcing
+Chen, Yuxin and Chi, Yuejie	Spectral Compressed Sensing via Structured Matrix Completion
+Chen, Yudong and Caramanis, Constantine and Mannor, Shie	Robust Sparse Regression under Adversarial Corruption
+Chen, Changyou and Rao, Vinayak and Buntine, Wray and Whye Teh, Yee	Dependent Normalized Random Measures
+Chen, Minmin and Zheng, Alice and Weinberger, Kilian	Fast Image Tagging
+Cheng, Li	Riemannian Similarity Learning
+Chevaleyre, Yann and Koriche, Frédéerick and Zucker, Jean-daniel	Rounding Methods for Discrete Linear Classification
+Cho, Kyunghyun	Simple Sparsification Improves Sparse Denoising Autoencoders in Denoising Highly Corrupted Images
+Chuang, Jason and Gupta, Sonal and Manning, Christopher and Heer, Jeffrey	Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment
+Coates, Adam and Huval, Brody and Wang, Tao and Wu, David and Catanzaro, Bryan and Andrew, Ng	Deep learning with COTS HPC systems
+Cortes, Corinna and Mohri, Mehryar and Rostamizadeh, Afshin	Multi-Class Classification with Maximum Margin Multiple Kernel
+Cotter, Andrew and Shalev-Shwartz, Shai and Srebro, Nati	Learning Optimally Sparse Support Vector Machines
+Coviello, Emanuele and Mumtaz, Adeel and Chan, Antoni and Lanckriet, Gert	That was fast! Speeding up NN search of high dimensional distributions.
+Curtin, Ryan and March, William and Ram, Parikshit and Anderson, David and Gray, Alexander and Isbell, Charles	Tree-Independent Dual-Tree Algorithms
+Cuturi, Marco and D’Aspremont, Alexandre	Mean Reversion with a Variance Threshold
+Dalalyan, Arnak and Hebiri, Mohamed and Meziani, Katia and Salmon, Joseph	Learning Heteroscedastic Models by Convex Programming under Group Sparsity
+Das, Mrinal and Bhattacharya, Suparna and Bhattacharyya, Chiranjib and Kanchi, Gopinath	Subtle Topic Models and Discovering Subtly Manifested Software Concerns Automatically
+Dekel, Ofer and Hazan, Elad	Better Rates for Any Adversarial Deterministic MDP
+Dembczynski, Krzysztof and Jachnik, Arkadiusz and Kotlowski, Wojciech and Waegeman, Willem and Huellermeier, Eyke	Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach versus Structured Loss Minimization
+Denil, Misha and Matheson, David and Freitas Nando, De	Consistency of Online Random Forests
+Dimitrakakis, Christos and Tziortziotis, Nikolaos	ABC Reinforcement Learning
+Ding, Weicong and Hossein Rohban, Mohammad and Ishwar, Prakash and Saligrama, Venkatesh	Topic Discovery through Data Dependent and Random Projections
+Do, Huyen and Kalousis, Alexandros	Convex formulations of radius-margin based Support Vector Machines
+Durrant, Robert and Kaban, Ata	Sharp Generalization Error Bounds for Randomly-projected Classifiers
+Duvenaud, David and Lloyd, James and Grosse, Roger and Tenenbaum, Joshua and Zoubin, Ghahramani	Structure Discovery in Nonparametric Regression through Compositional Kernel Search
+Emtiyaz Khan, Mohammad and Aravkin, Aleksandr and Friedlander, Michael and Seeger, Matthias	Fast Dual Variational Inference for Non-Conjugate Latent Gaussian Models
+Ermon, Stefano and Gomes, Carla and Sabharwal, Ashish and Selman, Bart	Taming the Curse of Dimensionality: Discrete Integration by Hashing and Optimization
+Friedland, Lisa and Jensen, David and Lavine, Michael	Copy or Coincidence? A Model for Detecting Social Influence and Duplication Events
+Ganeshapillai, Gartheeban and Guttag, John and Lo, Andrew	Learning Connections in Financial Time Series
+Gao, Wei and Jin, Rong and Zhu, Shenghuo and Zhou, Zhi-Hua	One-Pass AUC Optimization
+Gens, Robert and Pedro, Domingos	Learning the Structure of Sum-Product Networks
+Georgiev, Kostadin and Nakov, Preslav	A non-IID Framework for Collaborative Filtering with Restricted Boltzmann Machines
+Geras, Krzysztof and Sutton, Charles	Multiple-source cross-validation
+Germain, Pascal and Habrard, Amaury and Laviolette, Franois and Morvant, Emilie	A PAC-Bayesian Approach for Domain Adaptation with Specialization to Linear Classifiers
+Gigu<span>è</span>re, S<span>é</span>bastien and Laviolette, Fran<span>ç</span>ois and Marchand, Mario and Sylla, Khadidja	Risk Bounds and Learning Algorithms for the Regression Approach to Structured Output Prediction
+Gilboa, Elad and Saatçi, Yunus and Cunningham, John and Gilboa, Elad	Scaling Multidimensional {G}aussian Processes using Projected Additive Approximations
+Girshick, Ross and Song, Hyun Oh and Darrell, Trevor	Discriminatively Activated Sparselets
+Gittens, Alex and Mahoney, Michael	Revisiting the Nystrom method for improved large-scale machine learning
+Goerg, Georg	Forecastable Component Analysis
+Golovin, Daniel and Sculley, D. and McMahan, Brendan and Young, Michael	Large-Scale Learning with Less RAM via Randomization
+Golub, Matthew and Chase, Steven and Yu, Byron	Learning an Internal Dynamics Model from Control Demonstration
+Gomez-Rodriguez, Manuel and Leskovec, Jure and Schlkopf, Bernhard	Modeling Information Propagation with Survival Theory
+Gonen, Alon and Sabato, Sivan and Shalev-Shwartz, Shai	Efficient Active Learning of Halfspaces: an Aggressive Approach
+Gönen, Mehmet and Khan, Suleiman and Kaski, Samuel	Kernelized Bayesian Matrix Factorization
+Gong, Boqing and Grauman, Kristen and Sha, Fei	Connecting the Dots with Landmarks:  Discriminatively Learning Domain-Invariant Features for Unsupervised Domain Adaptation
+Gong, Pinghua and Zhang, Changshui and Lu, Zhaosong and Huang, Jianhua and Ye, Jieping	A General Iterative Shrinkage and Thresholding Algorithm for Non-convex Regularized Optimization Problems
+Goodfellow, Ian and Warde-Farley, David and Mirza, Mehdi and Courville, Aaron and Bengio, Yoshua	Maxout Networks
+Gopal, Siddharth and Yang, Yiming	Distributed training of Large-scale Logistic models
+Gopi, Sivakant and Netrapalli, Praneeth and Jain, Prateek and Nori, Aditya	One-Bit Compressed Sensing: Provable Support and Vector Recovery
+Goschin, Sergiu and Weinstein, Ari and Littman, Michael	The Cross-Entropy Method Optimizes for Quantiles
+Grinberg, Yuri and Precup, Doina	Average Reward Optimization Objective In Partially Observable Domains
+Großhans, Michael and Sawade, Christoph and Brückner, Michael and Scheffer, Tobias	Bayesian Games for Adversarial Regression Problems
+Grunewalder, Steffen and Arthur, Gretton and Shawe-Taylor, John	Smooth Operators
+Gupta, Sunil and Phung, Dinh and Venkatesh, Svetha	Factorial Multi-Task Learning : A Bayesian Nonparametric Approach
+Gupta, Ashish and Ayhan, Murat and Maida, Anthony	Natural Image Bases to Represent Neuroimaging Data
+Hall, Eric and Willett, Rebecca	Dynamical Models and tracking regret in online convex programming
+Hamilton, William L. and Fard, Mahdi Milani and Pineau, Joelle	Modelling Sparse Dynamical Systems with Compressed Predictive State Representations
+Han, Fang and Liu, Han	Principal Component Analysis on non-{G}aussian Dependent Data
+Han, Fang and Liu, Han	Transition Matrix Estimation in High Dimensional Time Series
+Hanczar, Blaise and Nadif, Mohamed	Precision-recall space to correct external indices for biclustering
+Hà Quang, Minh and Bazzani, Loris and Murino, Vittorio	A unifying framework for vector-valued manifold regularization and multi-view learning
+Heaukulani, Creighton and Ghahramani, Zoubin	Dynamic Probabilistic Models for Latent Feature Propagation in Social Networks
+Hennig, Philipp	Fast Probabilistic Optimization from Noisy Gradients
+Herlau, Tue and Mrup, Morten and Schmidt, Mikkel	Modeling Temporal Evolution and Multiscale Structure in Networks
+Ho, Chien-Ju and Jabbari, Shahin and Vaughan, Jennifer Wortman	Adaptive Task Assignment for Crowdsourced Classification
+Ho, Jeffrey and Xie, Yuchen and Vemuri, Baba	On A Nonlinear Generalization of Sparse Coding and Dictionary Learning
+Hocking, Toby and Rigaill, Guillem and Vert, Jean-Philippe and Bach, Francis	Learning Sparse Penalties for Change-point Detection using Max Margin Interval Regression
+Homrighausen, Darren and McDonald, Daniel	The lasso, persistence, and cross-validation
+Honorio, Jean and Tommi, Jaakkola	Two-Sided Exponential Concentration Bounds for Bayes Error Rate and Shannon Entropy
+Huang, Tzu-Kuo and Schneider, Jeff	Spectral Learning of Hidden Markov Models from Dynamic and Static Data
+Ishteva, Mariya and Park, Haesun and Song, Le	Unfolding Latent Tree Structures using 4th Order Tensors
+Iyer, Rishabh and Jegelka, Stefanie and Bilmes, Jeff	Fast Semidifferential-based Submodular Function Optimization
+Izbicki, Michael	Algebraic classifiers: a generic approach to fast cross-validation, online training, and parallel training
+Jaggi, Martin	Revisiting {Frank-Wolfe}: Projection-Free Sparse Convex Optimization
+Jain, Prateek and Thakurta, Abhradeep	Differentially Private Learning with Kernels
+Jancsary, Jeremy and Nowozin, Sebastian and Rother, Carsten	Learning Convex QP Relaxations for Structured Prediction
+Jia, Yangqing and Vinyals, Oriol and Darrell, Trevor	On Compact Codes for Spatially Pooled Features
+Jose, Cijo and Goyal, Prasoon and Aggrwal, Parv and Varma, Manik	Local Deep Kernel Learning for Efficient Non-linear SVM Prediction
+Joulani, Pooria and Gyorgy, Andras and Szepesvari, Csaba	Online Learning under Delayed Feedback
+J Reddi, Sashank and Poczos, Barnabas	Scale Invariant Conditional Dependence Measures
+Ju Hwang, Sung and Grauman, Kristen and Sha, Fei	Analogy-preserving Semantic Embedding for Visual Object Categorization
+Jun, Kwang-Sung and Zhu, Jerry and Settles, Burr and Rogers, Timothy	Learning from Human-Generated Lists
+Kadri, Hachem and Ghavamzadeh, Mohammad and Preux, Philippe	A Generalized Kernel Approach to Structured Output Learning
+Kalaitzis, Alfredo and Lafferty, John and Lawrence, Neil and Zhou, Shuheng	The Bigraphical Lasso
+Kamyshanska, Hanna and Memisevic, Roland	On autoencoder scoring
+Kar, Purushottam and Sriperumbudur, Bharath and Jain, Prateek and Karnick, Harish	On the Generalization Ability of Online Learning Algorithms for Pairwise Loss Functions
+Karbasi, Amin and Salavati, Amir Hesam and Shokrollahi, Amin	Iterative Learning and Denoising in Convolutional Neural Associative Memories
+Karnin, Zohar and Koren, Tomer and Somekh, Oren	Almost Optimal Exploration in Multi-Armed Bandits
+Kim, Do-kyum and Voelker, Geoffrey and Saul, Lawrence	A Variational Approximation for Topic Modeling of Hierarchical Corpora
+Kim, Minje and Smaragdis, Paris	Manifold Preserving Hierarchical Topic Models for Quantization and Approximation
+Kolar, Mladen and Liu, Han	Feature Selection in High-Dimensional Classification
+Kolar, Mladen and Liu, Han and Xing, Eric	Markov Network Estimation From Multi-attribute Data
+Kontorovich, Aryeh and Nadler, Boaz and Weiss, Roi	On learning parametric-output HMMs
+Koppula, Hema and Saxena, Ashutosh	Learning Spatio-Temporal Structure from RGB-D Videos for Human Activity Detection and Anticipation
+Kraehenbuehl, Philipp and Koltun, Vladlen	Parameter Learning and Convergent Inference for Dense Random Fields
+Krause, Oswin and Fischer, Asja and Glasmachers, Tobias and Igel, Christian	Approximation properties of {DBNs} with binary hidden units and real-valued visible units
+Krummenacher, Gabriel and Soon Ong, Cheng and Buhmann, Joachim	Ellipsoidal Multiple Instance Learning
+Kuleshov, Volodymyr	Fast algorithms for sparse principal component analysis based on Rayleigh quotient iteration
+Kumar, Ravi and Lokshtanov, Daniel and Vassilvitskii, Sergei and Vattani, Andrea	Near-Optimal Bounds for Cross-Validation via Loss Stability
+Kumar, Abhishek and Sindhwani, Vikas and Kambadur, Prabhanjan	Fast Conical Hull Algorithms for Near-separable Non-negative Matrix Factorization
+Kumar, K. S. Sesh and Bach, Francis	Convex Relaxations for Learning Bounded-Treewidth Decomposable Graphs
+Kuzborskij, Ilja and Orabona, Francesco	Stability and Hypothesis Transfer Learning
+Kyrillidis, Anastasios and Becker, Stephen and Cevher, Volkan and Koch, Christoph	Sparse projections onto the simplex
+Lacoste-Julien, Simon and Jaggi, Martin and Schmidt, Mark and Pletscher, Patrick	Block-Coordinate {Frank-Wolfe} Optimization for Structural {SVMs}
+Lakshminarayanan, Balaji and Roy, Daniel and Whye Teh, Yee	Top-down particle filtering for Bayesian decision trees
+Lattimore, Tor and Hutter, Marcus and Sunehag, Peter	The Sample-Complexity of General Reinforcement Learning
+Le, Quoc and Sarlos, Tamas and Smola, Alexander	Fastfood - Computing Hilbert Space Expansions in loglinear time
+Lee, Joonseok and Kim, Seungyeon and Lebanon, Guy and Singer, Yoram	Local Low-Rank Matrix Approximation
+Levine, Sergey and Koltun, Vladlen	Guided Policy Search
+Li, Xi and Lin, Guosheng and Shen, Chunhua and Van den Hengel, Anton and Dick, Anthony	Learning Hash Functions Using Column Generation
+Li, Quannan and Wang, Jingdong and Wipf, David and Tu, Zhuowen	Fixed-Point Model For Structured Labeling
+Lim, Daryl and Lanckriet, Gert and McFee, Brian	Robust Structural Metric Learning
+Liu, Ji and Yuan, Lei and Ye, Jieping	Guaranteed Sparse Recovery under Linear Transformation
+Livni, Roi and Lehavi, David and Schein, Sagi and Nachliely, Hila and Shalev-Shwartz, Shai and Globerson, Amir	Vanishing Component Analysis
+London, Ben and Huang, Bert and Taskar, Ben and Getoor, Lise	Collective Stability in Structured Prediction: Generalization from One Example
+Long, Phil and Servedio, Rocco	Consistency versus Realizable H-Consistency for Multiclass Classification
+Lopes, Miles	Estimating Unknown Sparsity in Compressed Sensing
+Lopez-Paz, David and Miguel Hernández-Lobato, Jose and Zoubin, Ghahramani	Gaussian Process Vine Copulas for Multivariate Dependence
+Maillard, Odalric-Ambrym and Nguyen, Phuong and Ortner, Ronald and Ryabko, Daniil	Optimal Regret Bounds for  Selecting the State Representation in Reinforcement Learning
+Mairal, Julien	Optimization with First-Order Surrogate Functions
+Malioutov, Dmitry and Varshney, Kush	Exact Rule Learning via Boolean Compressed Sensing
+Maurer, Andreas and Pontil, Massi and Romera-Paredes, Bernardino	Sparse coding for multitask and transfer learning
+Mehta, Nishant and Gray, Alexander	Sparsity-Based Generalization Bounds for Predictive Sparse Coding
+Memisevic, Roland and Exarchakis, Georgios	Learning invariant features by harnessing the aperture problem
+Meng, Xiangrui	Scalable Simple Random Sampling and Stratified Sampling
+Meng, Xiangrui and Mahoney, Michael	Robust Regression on MapReduce
+Menon, Aditya and Tamuz, Omer and Gulwani, Sumit and Lampson, Butler and Kalai, Adam	A Machine Learning Framework for Programming by Example
+Menon, Aditya and Narasimhan, Harikrishna and Agarwal, Shivani and Chawla, Sanjay	On the Statistical Consistency of Algorithms for Binary Classification under Class Imbalance
+Mineiro, Paul and Karampatziakis, Nikos	Loss-Proportional Subsampling for Subsequent ERM
+Muandet, Krikamol and Balduzzi, David and Schölkopf, Bernhard	Domain Generalization via Invariant Feature Representation
+Narasimhan, Harikrishna and Agarwal, Shivani	A Structural {SVM} Based Approach for Optimizing Partial AUC
+Nguyen, Trung and Li, Zhuoru and Silander, Tomi and Yun Leong, Tze	Online Feature Selection for Model-based Reinforcement Learning
+Nguyen, Tan and Sanner, Scott	Algorithms for Direct 0--1 Loss Optimization in Binary Classification
+Niu, Gang and Jitkrittum, Wittawat and Dai, Bo and Hachiya, Hirotaka and Sugiyama, Masashi	Squared-loss Mutual Information Regularization: A Novel Information-theoretic Approach to Semi-supervised Learning
+Ogawa, Kohei and Imamura, Motoki and Takeuchi, Ichiro and Sugiyama, Masashi	Infinitesimal Annealing for Training Semi-Supervised Support Vector Machines
+Ogawa, Kohei and Suzuki, Yoshiki and Takeuchi, Ichiro	Safe Screening of Non-Support Vectors in Pathwise SVM Computation
+Oliva, Junier and Poczos, Barnabas and Schneider, Jeff	Distribution to Distribution Regression
+Osting, Braxton and Brune, Christoph and Osher, Stanley	Enhanced statistical rankings  via  targeted data collection
+Ouyang, Hua and He, Niao and Tran, Long and Gray, Alexander	Stochastic Alternating Direction Method of Multipliers
+Papailiopoulos, Dimitris and Dimakis, Alexandros and Korokythakis, Stavros	Sparse PCA through Low-rank Approximations
+Pareek, Harsh and Ravikumar, Pradeep	Human Boosting
+Pascanu, Razvan and Mikolov, Tomas and Bengio, Yoshua	On the difficulty of training recurrent neural networks
+Peharz, Robert and Tschiatschek, Sebastian and Pernkopf, Franz	The Most Generative Maximum Margin Bayesian Networks
+Pele, Ofir and Taskar, Ben and Globerson, Amir and Werman, Michael	The Pairwise Piecewise-Linear Embedding for Efficient Non-Linear Classification
+Pirotta, Matteo and Restelli, Marcello and Pecorino, Alessio and Calandriello, Daniele	Safe Policy Iteration
+Qi, Yuan and Guo, Yandong	Message passing with l1 penalized KL minimization
+Raman, Karthik and Joachims, Thorsten and Shivaswamy, Pannaga and Schnabel, Tobias	Stable Coactive Learning via Perturbation
+Ramdas, Aaditya and Singh, Aarti	Optimal rates for stochastic convex optimization under Tsybakov noise condition
+Ranganath, Rajesh and Wang, Chong and David, Blei and Xing, Eric	An Adaptive Learning Rate for Stochastic Variational Inference
+Rastegari, Mohammad and Choi, Jonghyun and Fakhraei, Shobeir and Hal, Daume and Davis, Larry	Predictable Dual-View Hashing
+Rebagliati, Nicola	Strict Monotonicity of Sum of Squares Error  and Normalized Cut in the Lattice of Clusterings
+Reed, Colorado and Zoubin, Ghahramani	Scaling the Indian Buffet Process via Submodular Maximization
+Richard, Emile and BACH, Francis and Vert, Jean-Philippe	Intersecting singularities for multi-structured estimation
+Romera-Paredes, Bernardino and Aung, Hane and Bianchi-Berthouze, Nadia and Pontil, Massimiliano	Multilinear Multitask Learning
+Ross, James and Dy, Jennifer	Nonparametric Mixture of Gaussian Processes with Constraints
+Ross, Stephane and Zhou, Jiaji and Yue, Yisong and Dey, Debadeepta and Bagnell, Drew	Learning Policies for Contextual Submodular Prediction
+Ruvolo, Paul and Eaton, Eric	{ELLA}: An Efficient Lifelong Learning Algorithm
+Sabato, Sivan and Kalai, Adam	Feature Multi-Selection among Subjective Features
+Salazar, Esther and Bogdan, Ryan and Gorka, Adam and Hariri, Ahmad and Carin, Lawrence	Exploring the Mind: Integrating Questionnaires and fMRI
+Schaul, Tom and Zhang, Sixin and LeCun, Yann	No more pesky learning rates
+Shalit, Uri and Weinshall, Daphna and Chechik, Gal	Modeling Musical Influence with Topic Models
+Shamir, Ohad and Zhang, Tong	Stochastic Gradient Descent for Non-smooth Optimization: Convergence Results and Optimal Averaging Schemes
+Sheldon, Daniel and Sun, Tao and Kumar, Akshat and Dietterich, Tom	Approximate Inference in Collective Graphical Models
+Shender, Dinah and Lafferty, John	Computation-Risk Tradeoffs for Covariance-Thresholded Regression
+Shin, Kilho	A New Frontier of Kernel Design for Structured Data
+Silver, David and Newnham, Leonard and Barker, David and Weller, Suzanne and McFall, Jason	Concurrent Reinforcement Learning from Customer Interactions
+Simsekli, Umut and Taylan Cemgil, Ali and Kenan Yilmaz, Yusuf	Learning the beta-Divergence in Tweedie Compound Poisson Matrix Factorization Models
+Sodomka, Eric and Hilliard, Elizabeth and Littman, Michael and Greenwald, Amy	Coco-Q: Learning in Stochastic Games with Side Payments
+Sohn, Kihyuk and Zhou, Guanyu and Lee, Chansoo and Lee, Honglak	Learning and Selecting Features Jointly with Point-wise Gated {B}oltzmann Machines
+Song, Le and Ishteva, Mariya and Parikh, Ankur and Xing, Eric and Park, Haesun	Hierarchical Tensor Decomposition of Latent Tree Graphical Models
+Sun, Peng and Zhou, Jie	Saving Evaluation Time for the Decision Function in Boosting: Representation and Reordering Base Learner
+Sutskever, Ilya and Martens, James and Dahl, George and Hinton, Geoffrey	On the importance of initialization and momentum in deep learning
+Suzuki, Taiji	Dual Averaging and Proximal Gradient Descent for Online Alternating Direction Multiplier Method
+Sznitman, Raphael and Lucchi, Aurelien and Frazier, Peter and Jedynak, Bruno and Fua, Pascal	An Optimal Policy for Target Localization with Application to Electron Microscopy
+Szorenyi, Balazs and Busa-Fekete, Robert and Hegedus, Istvan and Ormandi, Robert and Jelasity, Mark and Kegl, Balazs	Gossip-based distributed stochastic bandit algorithms
+Takac, Martin and Bijral, Avleen and Richtarik, Peter and Srebro, Nati	Mini-Batch Primal and Dual Methods for SVMs
+Takhanov, Rustem and Kolmogorov, Vladimir	Inference algorithms for pattern-based CRFs on sequence data
+Tamar, Aviv and Di Castro, Dotan and Mannor, Shie	Temporal Difference Methods for the Variance of the Reward To Go
+Tang, Yichuan and Salakhutdinov, Ruslan and Hinton, Geoffrey	Tensor Analyzers
+Tarlow, Daniel and Swersky, Kevin and Charlin, Laurent and Sutskever, Ilya and Zemel, Rich	Stochastic k-Neighborhood Selection for Supervised and Unsupervised Learning
+Tejasvi Chaganty, Arun and Liang, Percy	Spectral Experts for Estimating Mixtures of Linear Regressions
+Telgarsky, Matus	Margins, Shrinkage, and Boosting
+Tesch, Matthew and Schneider, Jeff and Choset, Howie	Expensive Function Optimization with Stochastic Binary Outcomes
+Torkamani, MohamadAli and Lowd, Daniel	Convex Adversarial Collective Classification
+Toulis, Panos and Kao, Edward	Estimation of Causal Peer Influence Effects
+Tran, Truyen and Phung, Dinh and Venkatesh, Svetha	Thurstonian {B}oltzmann Machines: Learning from Multiple Inequalities
+Tran Dinh, Quoc and Kyrillidis, Anastasios and Cevher, Volkan	A proximal {N}ewton framework for composite minimization: Graph learning without {C}holesky decompositions and matrix inversions
+Urvoy, Tanguy and Clerot, Fabrice and Féraud, Raphael and Naamane, Sami	Generic Exploration and {K}-armed Voting Bandits
+Valko, Michal and Carpentier, Alexandra and Munos, Rémi	Stochastic Simultaneous Optimistic Optimization
+Van der Maaten, Laurens and Chen, Minmin and Tyree, Stephen and Weinberger, Kilian	Learning with Marginalized Corrupted Features
+Van Seijen, Harm and Sutton, Rich	Planning by Prioritized Sweeping with Small Backups
+Vladymyrov, Max and Carreira-Perpinan, Miguel	Entropic Affinities: Properties and Efficient Numerical Computation
+Wan, Li and Zeiler, Matthew and Zhang, Sixin and Le Cun, Yann and Fergus, Rob	Regularization of Neural Networks using DropConnect
+Wang, Yu-Xiang and Xu, Huan	Noisy Sparse Subspace Clustering
+Wang, Sida and Manning, Christopher	Fast dropout training
+Wang, Huayan and Daphne, Koller	Subproblem-Tree Calibration: A Unified Approach to Max-Product Message Passing
+Wang, Hua and Nie, Feiping and Huang, Heng	Multi-View Clustering and Feature Learning via Structured Sparsity
+Wang, Xinggang and Wang, Baoyuan and Bai, Xiang and Liu, Wenyu and Tu, Zhuowen	Max-Margin Multiple-Instance Dictionary Learning
+Wang, Ziyu and Mohamed, Shakir and Freitas Nando, De	Adaptive Hamiltonian and Riemann Manifold Monte Carlo
+Wang, Huayan and Daphne, Koller	A Fast and Exact Energy Minimization Algorithm for Cycle MRFs
+Wang, Hua and Nie, Feiping and Huang, Heng	Robust and Discriminative Self-Taught Learning
+Wauthier, Fabian and Jordan, Michael and Jojic, Nebojsa	Efficient Ranking from Pairwise Comparisons
+Weinshall, Daphna and Levi, Gal and Hanukaev, Dmitri	LDA Topic Model with Soft Assignment of Descriptors to Words
+Wen, Zheng and Kveton, Branislav and Eriksson, Brian and Bhamidipati, Sandilya	Sequential {B}ayesian Search
+Weston, Jason and Makadia, Ameesh and Yee, Hector	Label Partitioning For Sublinear Ranking
+van de Meent, Jan-Willem and Bronson, Jonathan and Wood, Frank and Gonzalez Jr., Ruben and Wiggins, Chris	Hierarchically-coupled hidden {M}arkov models for learning kinetic rates from single-molecule data
+Williamson, Sinead and Dubey, Avinava and Xing, Eric	Parallel {M}arkov Chain {M}onte {C}arlo for Nonparametric Mixture Models
+Wilson, Andrew and Adams, Ryan	Gaussian Process Kernels for Pattern Discovery and Extrapolation
+Wong, Eleanor and Awate, Suyash and Fletcher, P. Thomas	Adaptive Sparsity in {G}aussian Graphical Models
+Wu, Yue and Miguel Hernandez-Lobato, Jose and Zoubin, Ghahramani	Dynamic Covariance Models for Multivariate Financial Time Series
+Wulff, Sharon and Urner, Ruth and Ben-David, Shai	Monochromatic Bi-Clustering
+Wulsin, Drausin and Fox, Emily and Litt, Brian	Parsing epileptic events using a Markov switching process model for correlated time series
+Wytock, Matt and Kolter, Zico	Sparse Gaussian Conditional Random Fields: Algorithms, Theory, and Application to Energy Forecasting
+Xiang, Shuo and Tong, Xiaoshen and Ye, Jieping	Efficient Sparse Group Feature Selection via Nonconvex Optimization
+Xiao, Min and Guo, Yuhong	Domain Adaptation for Sequence Labeling Tasks with a Probabilistic Language Adaptation Model
+Xu, Zhixiang and Kusner, Matt and Weinberger, Kilian and Chen, Minmin	Cost-Sensitive Tree of Classifiers
+Xu, Minjie and Zhu, Jun and Zhang, Bo	Fast Max-Margin Matrix Factorization with Data Augmentation
+Xu, Zhixiang and Kusner, Matt and Huang, Gao and Weinberger, Kilian	Anytime Representation Learning
+Yang, Shuang-Hong and Zha, Hongyuan	Mixture of Mutually Exciting Processes for Viral Diffusion
+Yang, Zhirong and Peltonen, Jaakko and Kaski, Samuel	Scalable Optimization of Neighbor Embedding for Visualization
+Yang, Liu and Hanneke, Steve	Activized Learning with Uniform Classification Noise
+Yang, Ming and Li, Yingming and Zhang (Zhejiang University), Zhongfei	Multi-Task Learning with Gaussian Matrix Generalized Inverse Gaussian Model
+Yang, Wenzhuo and Xu, Huan	A Unified Robust Regression Model for Lasso-like Algorithms
+Yang, Jiyan and Meng, Xiangrui and Mahoney, Michael	Quantile Regression for Large-scale Applications
+Yi, Jinfeng and Zhang, Lijun and Jin, Rong and Qian, Qi and Jain, Anil	Semi-supervised Clustering by Input Pattern Assisted Pairwise Similarity Matrix Completion
+Yoshii, Kazuyoshi and Tomioka, Ryota and Mochihashi, Daichi and Goto, Masataka	Infinite Positive Semidefinite Tensor Factorization for Source Separation of Mixture Signals
+Yu, Yaoliang and Cheng, Hao and Schuurmans, Dale and Szepesvari, Csaba	Characterizing the Representer Theorem
+Yu, Felix and Liu, Dong and Kumar, Sanjiv and Tony, Jebara and Chang, Shih-Fu	$\propto$SVM for Learning with Label Proportions
+Yu Hui, Ka	Direct Modeling of Complex Invariances for Visual Object Features
+Zemel, Rich and Wu, Yu and Swersky, Kevin and Pitassi, Toni and Dwork, Cynthia	Learning Fair Representations
+Zhai, Ke and Boyd-Graber, Jordan	Online Latent {D}irichlet Allocation with Infinite Vocabulary
+Zhang, Xiaowei and Chu, Delin	Sparse Uncorrelated Linear Discriminant Analysis
+Zhang, Dan and He, Jingrui and Si, Luo and Lawrence, Richard	MILEAGE: Multiple Instance LEArning with Global Embedding
+Zhang, Kai and Zheng, Vincent and Wang, Qiaojun and Kwok, James and Yang, Qiang and Marsic, Ivan	Covariate Shift in Hilbert Space: A Solution via Sorrogate Kernels
+Zhang, Lijun and Yi, Jinfeng and Jin, Rong and Lin, Ming and He, Xiaofei	Online Kernel Learning with a Near Optimal Sparsity Bound
+Zhang, Kun and Schlkopf, Bernhard and Muandet, Krikamol and Wang, Zhikun	Domain Adaptation under Target and Conditional Shift
+Zhang, Lijun and Yang, Tianbao and Jin, Rong and He, Xiaofei	O(logT) Projections for Stochastic Optimization of Smooth and Strongly Convex Functions
+Zhou, Ke and Zha, Hongyuan and Song, Le	Learning Triggering Kernels for Multi-dimensional Hawkes Processes
+Zhu, Jun and Chen, Ning and Perkins, Hugh and Zhang, Bo	{G}ibbs Max-Margin Topic Models with Fast Sampling Algorithms
+Zuluaga, Marcela and Sergent, Guillaume and Krause, Andreas and Püschel, Markus	Active Learning for Multi-Objective Optimization
+Zweig, Alon and Weinshall, Daphna	Hierarchical Regularization Cascade for Joint Learning
