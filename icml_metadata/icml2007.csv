@@ -1,0 +1,150 @@
+Quantum Clustering Algorithms	Esma  Ämeur and Gilles  Brassard and Sébastien  Gambs
+Learning Random Walks to Rank Nodes in Graphs	Alekh  Agarwal and Soumen  Chakrabarti
+Uncovering Shared Structures in Multiclass Classification	Yonatan  Amit and Michael  Fink and Nathan  Srebro and Shimon  Ullman
+Two-view Feature Generation Model for Semi-supervised Learning	Rie  Ando and Tong  Zhang
+Scalable Training of L1-regularized Log-linear Models	Galen  Andrew and Jianfeng  Gao
+Multiclass Core Vector Machine	S.  Asharaf and Computer Science and Automation, Indian Institute of Science, Bangalore and M. Narasimha  Murty and Computer Science and Automation, Indian Institute of Science, Bangalore and S. K.  Shevade and Computer Science and Automation, Indian Institute of Science, Bangalore
+The Rendezvous Algorithm: Multiclass Semi-Supervised Learning with Markov Random Walks	Arik  Azran
+Focussed Crawling with Scalable Ordinal Regression Solvers	Rashmin  Babaria and Saketha Nath  Jagarlapudi and Krishnan S.  Kumar and Sivaramakrishnan Ramanujam  Kaveri and Chiranjib  Bhattacharyya and M. Narasimha  Murty
+Learning Distance Function by Coding Similarity	Aharon  Bar Hillel and Daphna  Weinshall
+Structural Alignment based Kernels for Protein Structure Classification	Sourangshu  Bhattacharya and Chiranjib  Bhattacharyya and Nagasuma R.  Chandra
+Discriminative Learning for Differing Training and Test Distributions	Steffen  Bickel and Michael  Brüeckner and Tobias  Scheffer
+Solving MultiClass Support Vector Machines with LaRank	Antoine  Bordes and Léon  Bottou and Patrick  Gallinari and Jason  Weston
+Efficiently Computing Minimax Expected-Size Confidence Regions	Brent  Bryan and H. Brendan  McMahan and Chad M.  Schafer and Jeff  Schneider
+Multiple Instance Learning for Sparse Positive Bags	Razvan C.  Bunescu and Raymond J.  Mooney
+Cluster Analysis of Heterogeneous Rank Data	Ludwig M.  Busse and Peter  Orbanz and Joachim M.  Buhmann
+Feature Selection in Kernel Space	Bin  Cao and Dou  Shen and Jian-Tao  Sun and Qiang  Yang and Zheng  Chen
+Learning to Rank: From Pairwise Approach to Listwise Approach	Zhe  Cao and Tao  Qin and Tie-Yan  Liu and Ming-Feng  Tsai and Hang  Li
+Local Similarity Discriminant Analysis	Luca  Cazzanti and Maya  Gupta
+Direct Convex Relaxations of Sparse SVM	Antoni B.  Chan and Nuno  Vasconcelos and Gert R. G.  Lanckriet
+Minimum Reference Set Based Feature Selection for Small Sample Classifications	Xue-wen  Chen and Jong Cheol  Jeong
+Learning to Compress Images and Video	Li  Cheng and S.V.N.  Vishwanathan
+Magnitude-Preserving Ranking Algorithms	Corinna  Cortes and Mehryar  Mohri and Ashish  Rastogi
+Full Regularization Path for Sparse Principal Component Analysis	Alexandre  d'Aspremont and Francis R.  Bach and Laurent  El Ghaoui
+Kernel Selection for Semi-Supervised Kernel Machines	Guang  Dai and Dit-Yan  Yeung
+Boosting for Transfer Learning	Wenyuan  Dai and Qiang  Yang and Gui-Rong  Xue and Yong  Yu
+Intractability and Clustering with Constraints	Ian  Davidson and SUNY and S.S.  Ravi and SUNY
+Information-Theoretic Metric Learning	Jason V.  Davis and Brian  Kulis and Prateek  Jain and Suvrit  Sra and Inderjit S.  Dhillon
+An Integrated Approach to Feature Invention and Model Construction for Drug Activity Prediction	Jesse  Davis and Vítor Santos  Costa and Soumya  Ray and David  Page
+Percentile Optimization in Uncertain MDP with Application to Efficient Exploration	Erick  Delage and Shie  Mannor
+Unsupervised Prediction of Citation Influences	Laura  Dietz and Steffen  Bickel and Tobias  Scheffer
+Non-Isometric Manifold Learning: Analysis and an Algorithm	Piotr  Dollár and Vincent  Rabaud and Serge  Belongie
+Hierarchical Maximum Entropy Density Estimation	Miroslav  Dudík and David M.  Blei and Robert E.  Schapire
+CarpeDiem: an Algorithm for the Fast Evaluation of SSL Classifiers	Roberto  Esposito and Daniele P.  Radicioni
+Manifold-adaptive dimension estimation	Amir massoud  Farahmand and Csaba  Szepesvári and Jean-Yves  Audibert and Certis and Ecole des Ponts
+Combining Online and Offline Knowledge in UCT	Sylvain  Gelly and David  Silver
+Robust Non-linear Dimensionality Reduction using Successive 1-Dimensional Laplacian Eigenmaps	Samuel  Gerber and Tolga  Tasdizen and Ross  Whitaker
+Gradient Boosting for Kernelized Output Spaces	Pierre  Geurts and Louis  Wehenkel and Florence  d'Alché-Buc
+Bayesian Actor-Critic Algorithms	Mohammad  Ghavamzadeh and Yaakov  Engel
+Exponentiated Gradient Algorithms for Log-Linear Structured Prediction	Amir  Globerson and Terry  Koo and Xavier  Carreras and Michael  Collins
+Best of Both: A Hybridized Centroid-Medoid Clustering Heuristic	Nizar  Grira and Michael E.  Houle
+Recovering Temporally Rewiring Networks: A model-based approach	Fan  Guo and Steve  Hanneke and Wenjie  Fu and Eric P.  Xing
+Efficient Inference with Cardinality-based Clique Potentials	Rahul Gupta and Ajit A.  Diwan and Sunita  Sarawagi
+Sparse Probabilistic Classifiers	Romain  Hérault and Yves  Grandvalet
+Supervised Clustering of Streaming Data for Email Batch Detection	Peter  Haider and Ulf  Brefeld and Tobias  Scheffer
+A Bound on the Label Complexity of Agnostic Active Learning	Steve  Hanneke
+Learning Nonparametric Kernel Matrices from Pairwise Constraints	Steven C. H.  Hoi and Rong  Jin and Michael R.  Lyu
+Parameter Learning for Relational Bayesian Networks	Manfred  Jaeger
+Bayesian Compressive Sensing and Projection Optimization	Shihao  Ji and Lawrence  Carin
+Constructing Basis Functions from Directed Graphs for Value Function Approximation	Jeffrey  Johns and Sridhar  Mahadevan
+Most Likely Heteroscedastic Gaussian Process Regression	Kristian  Kersting and Christian  Plagemann and Patrick  Pfaff and Wolfram  Burgard
+Neighbor Search with Global Geometry: A Minimax Message Passing Algorithm	Kye-Hyeon  Kim and Seungjin  Choi
+A Recursive Method for Discriminative Mixture Learning	Minyoung  Kim and Vladimir  Pavlovic
+Infinite Mixtures of Trees	Sergey  Kirshner and Padhraic  Smyth
+Local Dependent Components	Arto  Klami and Samuel  Kaski
+Statistical Predicate Invention	Stanley  Kok and Pedro  Domingos
+Kernelizing PLS, Degrees of Freedom, and Efficient Model Selection	Nicole  Krämer and Mikio L.  Braun
+Nonmyopic Active Learning of Gaussian Processes: An Exploration--Exploitation Approach	Andreas  Krause and Carlos  Guestrin
+On One Method of Non-Diagonal Regularization in Sparse Bayesian Learning	Dmitry  Kropotov and Dmitry  Vetrov
+Online Kernel PCA with Entropic Matrix Updates	Dima  Kuzmin and University of California and Manfred K.  Warmuth and University of California
+An Empirical Evaluation of Deep Architectures on Problems with Many Factors of Variation	Hugo  Larochelle and Dumitru  Erhan and Aaron  Courville and James  Bergstra and Yoshua  Bengio
+The Hierarchical Gaussian Process Latent Variable Model	Neil D.  Lawrence and Andrew J.  Moore
+Learning a Meta-Level Prior for Feature Relevance from Multiple Related Tasks	Su-In  Lee and Vassil  Chatalbashev and David  Vickrey and Daphne  Koller
+Scalable Modeling of Real Graphs using Kronecker Multiplication	Jure  Leskovec and Christos  Faloutsos
+Support Cluster Machine	Bin  Li and Mingmin  Chi and Jianping  Fan and Xiangyang  Xue
+A Transductive Framework of Distance Metric Learning by Spectral Dimensionality Reduction	Fuxin  Li and Jian  Yang and Jue  Wang
+Adaptive Dimension Reduction Using Discriminant Analysis and $K$-means Clustering	Tao  Li and Chris  Ding
+Large-scale RLSC Learning Without Agony	Wenye  Li and Kin-Hong  Lee and Kwong-Sak  Leung
+A Novel Orthogonal NMF-Based Belief Compression for POMDPs	Xin  Li and William K. W.  Cheung and Jiming  Liu and Zhili  Wu
+A Permutation-augmented Sampler for DP Mixture Models	Percy  Liang and Michael I.  Jordan and Ben  Taskar
+Quadratically Gated Mixture of Experts for Incomplete Data Classification	Xuejun  Liao and Hui  Li and Lawrence  Carin
+Trust Region Newton Methods for Large-Scale Logistic Regression	Chih-Jen  Lin and Ruby Chiu-Hsing  Weng and Sathiya  Keerthi
+Relational Clustering by Symmetric Convex Coding	Bo  Long and Zhongfei  Zhang and Xiaoyun  Wu and Philip S.  Yu
+Discriminant Analysis in Correlation Similarity Measure Space	Yong  Ma and Shihong  Lao and Erina  Takikawa and Masato  Kawade
+Adaptive Mesh Compression in 3D Computer Graphics using Multiscale Manifold Learning	Sridhar  Mahadevan
+Simple, Robust, Scalable Semi-supervised Learning via Expectation Regularization	Gideon S.  Mann and Andrew  McCallum
+Automatic Shaping and Decomposition of Reward Functions	Bhaskara  Marthi
+Asymmetric Boosting	Hamed  Masnadi-Shirazi and Nuno  Vasconcelos
+Linear and Nonlinear Generative Probabilistic Class Models for Shape Contours	Graham  McNeill and Sethu  Vijayakumar
+Bottom-Up Learning of Markov Logic Network Structure	Lilyana  Mihalkova and Raymond J.  Mooney
+Mixtures of Hierarchical Topics with Pachinko Allocation	David  Mimno and Wei  Li and Andrew  McCallum
+Three New Graphical Models for Statistical Language Modelling	Andriy  Mnih and Geoffrey  Hinton
+Fast and Effective Kernels for Relational Learning from Texts	Alessandro  Moschitti and Fabio Massimo  Zanzotto
+Dimensionality Reduction and Generalization	Sofia  Mosci and Lorenzo  Rosasco and Alessandro  Verri
+Unsupervised Estimation for Noisy-Channel Models	Markos  Mylonakis and Khalil  Sima'an and Rebecca  Hwa
+Revisiting Probabilistic Models for Clustering with Constraints	Blaine  Nelson and Ira  Cohen
+Comparisons of Sequence Labeling Algorithms and Extensions	Nam  Nguyen and Yunsong  Guo
+Multi-Task Learning for Sequential Data via iHMMs and the Nested Dirichlet Process	Kai  Ni and Lawrence  Carin and David  Dunson
+Regression on Manifolds using Kernel Dimension Reduction	Jens  Nilsson and Fei  Sha and Michael I.  Jordan
+Learning State-Action Basis Functions for Hierarchical MDPs	Sarah  Osentoski and Sridhar  Mahadevan
+A Fast Linear Separability Test by Projection of Positive Points on Subspaces	Yogananda A.  P. and M. Narasimha  Murty and Lakshmi  Gopal
+Multi-armed Bandit Problems with Dependent Arms	Sandeep  Pandey and Deepayan  Chakrabarti and Deepak  Agarwal
+Learning for Efficient Retrieval of Structured Data with Noisy Queries	Charles  Parker and Alan  Fern and Prasad  Tadepalli
+Analyzing Feature Generation for Value-Function Approximation	Ronald  Parr and Christopher  Painter-Wakefield and Lihong  Li and Michael  Littman
+Reinforcement Learning by Reward-weighted Regression for Operational Space Control	Jan  Peters and Stefan  Schaal
+Tracking Value Function Dynamics to Improve Reinforcement Learning with Piecewise Linear Function Approximation	Chee Wee  Phua and Robert  Fitch
+Self-taught Learning: Transfer Learning from Unlabeled Data	Rajat  Raina and Alexis  Battle and Honglak  Lee and Benjamin  Packer and Andrew Y.  Ng
+Online Discovery of Similarity Mappings	Alexander  Rakhlin and Jacob  Abernethy and Peter L.  Bartlett
+More Efficiency in Multiple Kernel Learning	Alain  Rakotomamonjy and Francis R.  Bach and Stephane  Canu and Yves  Grandvalet
+Graph Clustering With Network Structure Indices	Matthew J.  Rattigan and Marc  Maier and David  Jensen
+Restricted Boltzmann Machines for Collaborative Filtering	Ruslan  Salakhutdinov and Andriy  Mnih and Geoffrey  Hinton
+Sample Compression Bounds for Decision Trees	Mohak  Shah
+Pegasos: Primal Estimated sub-GrAdient SOlver for SVM	Shai  Shalev-Shwartz and Yoram  Singer and Nathan  Srebro
+A Dependence Maximization View of Clustering	Le  Song and Alex  Smola and Arthur  Gretton and Karsten M.  Borgwardt
+Supervised Feature Selection via Dependence Estimation	Le  Song and Alex  Smola and Arthur  Gretton and Karsten M.  Borgwardt and Justin  Bedo
+Sparse Eigen Methods by D.C. Programming	Bharath  Sriperumbudur and David  Torres and Gert  Lanckriet
+Learning to Solve Game Trees	David  Stern and Ralf  Herbrich and Thore  Graepel
+Robust Mixtures in the Presence of Measurement Errors	Jianyong  Sun and Ata  Kaban and Somak  Raychaudhury
+A Kernel-based Causal Learning Algorithm	Xiaohai  Sun and Dominik  Janzing and Bernhard  Schölkopf and Kenji  Fukumizu
+Piecewise Pseudolikelihood for Efficient Training of Conditional Random Fields	Charles  Sutton and Andrew  McCallum
+On the Role of Tracking in Stationary Environments	Richard S.  Sutton and Anna  Koop and David  Silver
+Cross-Domain Transfer for Reinforcement Learning	Matthew E.  Taylor and Peter  Stone
+Incremental Bayesian Networks for Structure Prediction	Ivan  Titov and James  Henderson
+Classifying Matrices with a Spectral Regularization	Ryota  Tomioka and Kazuyuki  Aihara
+Approximate Maximum Margin Algorithms with Rules Controlled by the Number of Mistakes	Petroula  Tsampouka and John  Shawe-Taylor
+Simpler Core Vector Machines with Enclosing Balls	Ivor W.  Tsang and Andras  Kocsor and James T.  Kwok
+Entire Regularization Paths for Graph Data	Koji  Tsuda
+Discriminative Gaussian Process Latent Variable Models for Classification	Raquel  Urtasun and Trevor  Darrell
+Experimental Perspectives on Learning from Imbalanced Data	Jason D.  Van Hulse and Taghi M.  Khoshgoftaar and Amri  Napolitano
+Learning from Interpretations: A Rooted Kernel for Ordered Hypergraphs	Gabriel  Wachman and Roni  Khardon
+A Kernel Path Algorithm for Support Vector Machines	Gang  Wang and Dit-Yan  Yeung and Frederick  Lochovsky
+Dirichlet Aggregation: Unsupervised Learning towards an Optimal Metric for Proportional Data	Hua-Yan  Wang and Hongbin  Zha and Hong  Qin
+Transductive Regression Piloted by Inter-Manifold Relations	Huan  Wang and Shuicheng  Yan and Thomas  Huang and Jianzhuang  Liu and Xiaoou  Tang
+Multifactor Gaussian Process Models for Style-Content Separation	Jack M.  Wang and David J.  Fleet and Aaron  Hertzmann
+Hybrid Huberized Support Vector Machines for Microarray Classification	Li  Wang and Ji  Zhu and Hui  Zou
+On Learning with Dissimilarity Functions	Liwei  Wang and Cheng  Yang and Jufu  Feng
+Winnowing Subspaces	Manfred K.  Warmuth
+What Is Decreased by the Max-sum Arc Consistency Algorithm?	Tomáš  Werner
+Multi-Task Reinforcement Learning: A Hierarchical Bayesian Approach	Aaron  Wilson and Alan  Fern and Prasad  Tadepalli and Soumya  Ray
+Beamforming using the Relevance Vector Machine	David  Wipf and Srikantan  Nagarajan
+Learning to Combine Distances for Complex Representations	Adam  Woznica and Alexandros  Kalousis and Melanie  Hilario
+Local Learning Projections	Mingrui  Wu and Kai  Yu and Shipeng  Yu and Bernhard  Schölkopf
+On Learning Linear Ranking Functions for Beam Search	Yuehua  Xu and Alan  Fern
+Modeling Changing Dependency Structure in Multivariate Time Series	Xiang  Xuan and Kevin  Murphy
+The Matrix Stick-Breaking Process for Flexible Multi-Task Learning	Ya  Xue and David  Dunson and Lawrence  Carin
+Map Building without Localization by Dimensionality Reduction Techniques	Takehisa  Yairi
+Asymptotic Bayesian Generalization Error When Training and Test Distributions Are Different	Keisuke  Yamazaki and Motoaki  Kawanabe and Sumio  Watanabe and Masashi  Sugiyama and Klaus-Robert  Müller
+Least Squares Linear Discriminant Analysis	Jieping  Ye
+Discriminant Kernel and Regularization Parameter Learning via Semidefinite Programming	Jieping  Ye and Jianhui  Chen and Shuiwang  Ji
+Robust Multi-Task Learning with $t$-Processes	Shipeng  Yu and Volker  Tresp and Kai  Yu
+On the Value of Pairwise Constraints in Classification and Consistency	Jian  Zhang and Rong  Yan
+Maximum Margin Clustering Made Practical	Kai  Zhang and Ivor W.  Tsang and James T.  Kwok
+Nonlinear Independent Component Analysis with Minimal Nonlinear Distortion	Kun  Zhang and Laiwan  Chan
+Optimal Dimensionality of Metric Space for Classification	Wei  Zhang and Xiangyang  Xue and Zichen  Sun and Yue-Fei  Guo and Hong  Lu
+Conditional Random Fields for Multi-agent Reinforcement Learning	Xinhua  Zhang and Douglas  Aberdeen and S.V.N.  Vishwanathan
+Spectral Feature Selection for Supervised and Unsupervised Learning	Zheng  Zhao and Huan  Liu
+Spectral Clustering with Multiple Views	Dengyong  Zhou and Christopher J.C.  Burges
+On the Relation Between Multi-Instance Learning and Semi-Supervised Learning	Zhi-Hua  Zhou and Jun-Ming  Xu
+Dynamic Hierarchical Markov Random Fields and their Application to Web Data Extraction	Jun  Zhu and Zaiqing  Nie and Bo  Zhang and Ji-Rong  Wen
+Transductive Support Vector Machines for Structured Variables	Alexander  Zien and Ulf  Brefeld and Tobias  Scheffer
+Multiclass Multiple Kernel Learning	Alexander  Zien and Cheng Soon  Ong
